@@ -1,0 +1,36 @@
+.elementor-25 .elementor-element.elementor-element-cabcd4f {
+    padding: 120px 0px 0px 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-f68c7f3 {
+    padding: 0px 0px 100px 0px;
+}
+
+.elementor-25 .elementor-element.elementor-element-bbf615c .zt-item {
+    opacity: 1;
+}
+
+.elementor-25 .elementor-element.elementor-element-bbf615c .zt-item:hover::after {
+    background-color: transparent;
+    background-image: linear-gradient(230deg, #f60e0e 0%, #000000 100%);
+    opacity: 1;
+}
+
+.elementor-25 .elementor-element.elementor-element-44e5244:not(.elementor-motion-effects-element-type-background), .elementor-25 .elementor-element.elementor-element-44e5244 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(120deg, #d00e0e 0%, #040404 100%);
+}
+
+.elementor-25 .elementor-element.elementor-element-44e5244 > .elementor-background-overlay {
+    background-image: url("https://bdevs.net/wp/zibber/wp-content/uploads/2021/01/cta-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.17;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-25 .elementor-element.elementor-element-44e5244 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 180px 0px 155px 0px;
+}

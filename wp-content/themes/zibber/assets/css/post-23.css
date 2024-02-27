@@ -1,0 +1,50 @@
+.elementor-23 .elementor-element.elementor-element-fd16f67 {
+    padding: 0px 0px 40px 0px;
+}
+
+.elementor-23 .elementor-element.elementor-element-d9ea28a {
+    text-align: center;
+}
+
+.elementor-23 .elementor-element.elementor-element-d9ea28a > .elementor-widget-container {
+    padding: 115px 0px 50px 0px;
+}
+
+.elementor-23 .elementor-element.elementor-element-c3302b4 {
+    text-align: left;
+}
+
+.elementor-23 .elementor-element.elementor-element-3bfa1cc {
+    padding: 130px 0px 130px 0px;
+}
+
+.elementor-23 .elementor-element.elementor-element-574426d {
+    padding: 0px 0px 50px 0px;
+}
+
+.elementor-23 .elementor-element.elementor-element-0aeb638 {
+    text-align: left;
+}
+
+.elementor-23 .elementor-element.elementor-element-0aeb638 > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-23 .elementor-element.elementor-element-b7a110b:not(.elementor-motion-effects-element-type-background), .elementor-23 .elementor-element.elementor-element-b7a110b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(120deg, #ff1414 0%, #000000 100%);
+}
+
+.elementor-23 .elementor-element.elementor-element-b7a110b > .elementor-background-overlay {
+    background-image: url("https://bdevs.net/wp/zibber/wp-content/uploads/2021/01/cta-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.17;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-23 .elementor-element.elementor-element-b7a110b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 180px 0px 155px 0px;
+}
